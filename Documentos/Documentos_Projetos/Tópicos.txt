@@ -1,0 +1,15 @@
+Quatro funcionalidades baseada em três usuários e uma home page que mostrará os gráficos
+Usuários: colaborador, médico e o paciente
+
+O aplicativo então fará:
+-Levantar os casos suspeitos, assim como seus dados;
+-Comunicação entre médico e usuário;
+-Agregar dados da pandemia de diversas fontes e organizá-los;
+-Permitir atualização comunitária dos dados;
+
+Atualizações possíveis:
+-Rastreio de contágio;
+-Classificação de colaboradores;
+-Agilizar comunicação entre médico e paciente;
+-Aumentar alcance para hospitais privados;
+-Incluir número de leitos e estrutura para indicação de hospitais;
